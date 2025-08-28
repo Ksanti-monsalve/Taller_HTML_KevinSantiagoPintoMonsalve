@@ -82,20 +82,6 @@ De esta forma, el usuario puede navegar fácilmente haciendo clic en las regione
 
 Se complementa con gráficas ilustrativas en formato de imagen que muestran la participación de los sectores económicos de cada región.
 
-## 🛠️ Tecnologías utilizadas
-
-HTML5 para la estructura y navegación.
-
-Mapas interactivos (<map>, <area>) en la página principal.
-
-Listas (<ul>, <li>) para organizar la información.
-
-Imágenes (<img>) para ilustraciones, comidas típicas y gráficas.
-
-Secciones (<section>, <p>) para estructurar el contenido.
-
-Emojis para resaltar información (📍 lugares, 🍲 comida, 🌄 turismo, 🏭 economía, 📊 estadísticas).
-
 ## 🚀 Objetivo del Proyecto
 
 Este proyecto busca servir como recurso educativo y visual para aprender sobre la diversidad cultural, gastronómica y económica de los departamentos de Colombia mediante páginas HTML simples y un mapa interactivo.
