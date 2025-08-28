@@ -1,10 +1,10 @@
-🌎🇨🇴 Proyecto: Departamentos de Colombia
+## 🌎🇨🇴 Proyecto: Departamentos de Colombia
 
 Este proyecto contiene un conjunto de páginas en HTML dedicadas a explorar algunos departamentos de Colombia: Santander, Vichada y Amazonas.
 
 La página principal (index.html) muestra un Mapa de Colombia interactivo. Al hacer clic en cada departamento resaltado, se abre la página específica con información detallada de la región.
 
-📂 Estructura del Proyecto
+## 📂 Estructura del Proyecto
 
 index.html → Página principal con el mapa de Colombia y enlaces a cada departamento.
 
@@ -16,7 +16,7 @@ amazonas.html → Información sobre el departamento de Amazonas.
 
 images/ → Carpeta de imágenes utilizadas (mapa de Colombia, fotos de comidas típicas, sitios turísticos, banderas y gráficas económicas).
 
-🗺️ Página principal: index.html
+## 🗺️ Página principal: index.html
 
 La página principal incluye:
 
@@ -34,7 +34,8 @@ Amazonas → enlace a amazonas.html.
 
 De esta forma, el usuario puede navegar fácilmente haciendo clic en las regiones resaltadas del mapa.
 
-📖 Contenido de cada departamento
+## 📖 Contenido de cada departamento
+
 🟥 Santander
 
 📍 Información general: Ubicación en la región andina, con gran importancia histórica y cultural.
@@ -81,7 +82,7 @@ De esta forma, el usuario puede navegar fácilmente haciendo clic en las regione
 
 Se complementa con gráficas ilustrativas en formato de imagen que muestran la participación de los sectores económicos de cada región.
 
-🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 
 HTML5 para la estructura y navegación.
 
@@ -95,6 +96,6 @@ Secciones (<section>, <p>) para estructurar el contenido.
 
 Emojis para resaltar información (📍 lugares, 🍲 comida, 🌄 turismo, 🏭 economía, 📊 estadísticas).
 
-🚀 Objetivo del Proyecto
+## 🚀 Objetivo del Proyecto
 
 Este proyecto busca servir como recurso educativo y visual para aprender sobre la diversidad cultural, gastronómica y económica de los departamentos de Colombia mediante páginas HTML simples y un mapa interactivo.
